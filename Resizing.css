@@ -1,0 +1,16 @@
+*{
+    
+    background-color: #000;
+}
+
+div{
+     background-color: #f0f8ff;  
+    border-radius: 5px;
+    border: 2px solid #000a0a;
+    padding: 20px;
+    width: 300px;
+    resize: both;
+    overflow: auto;
+    
+}
+
